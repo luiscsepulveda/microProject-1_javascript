@@ -1,0 +1,47 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "GOD FIRST BRO",
+      "price": "$20",
+      "description": "Put God first in everything you do.",
+      "image": "GFb man blue.png"
+    },
+    {
+      "id": 2,
+      "name": "SIMPLY TRUST",
+      "price": "$35",
+      "description": "Just trust, keep going, don't look back.",
+      "image": "STwomen230px.png"
+    },
+    {
+      "id": 3,
+      "name": "FAITH",
+      "price": "$15",
+      "description": "Faith is what moves us.",
+      "image": "faith_pink.png"
+    },
+    {
+      "id": 4,
+      "name": "NEVER PANIC",
+      "price": "$25",
+      "description": "Stay calm and trust God in every situation.",
+      "image": "NPJP black_.png"
+    },
+    {
+      "id": 5,
+      "name": "NEVER DOUBT",
+      "price": "$60",
+      "description": "Believe with no hesitation. God got you.",
+      "image": "ND roja.png"
+    },
+    {
+      "id": 6,
+      "name": "S.T.A.N.D",
+      "price": "$50",
+      "description": "Simply Trust and Never Doubt.",
+      "image": "logo back white.png"
+    }
+  ]
+  
